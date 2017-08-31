@@ -3,7 +3,7 @@
 This repository provides the code used and describe in:
 
 > Time-Lapse Microscopy and Classification of 2D Human Mesenchymal Stem Cells Based on Cell Shape Picks Up Myogenic from Osteogenic and Adipogenic Differentiation <br>
-> C. Seiler, A. Gazdhar, M. Reyes, L.M. Benneker, T. Geiser, K.A. Siebenrock, and B. Gantenbein-Ritter 
+> C. Seiler, A. Gazdhar, M. Reyes, L.M. Benneker, T. Geiser, K.A. Siebenrock, and B. Gantenbein-Ritter <br>
 > Journal of Tissue Engineering and Regenerative Medicine, Volume 8, Issue 9, September 2014, Pages 737–746 
 
 Cells were segmented using a custom-made image processing pipeline. The segmentation pipeline was implemented in order to distinguish cells from the background. The segmentation pipeline is composed of standard image-processing operations in the following order: 
