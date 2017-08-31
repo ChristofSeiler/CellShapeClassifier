@@ -6,6 +6,8 @@ This repository provides the code developed for:
 > C. Seiler, A. Gazdhar, M. Reyes, L.M. Benneker, T. Geiser, K.A. Siebenrock, and B. Gantenbein-Ritter <br>
 > Journal of Tissue Engineering and Regenerative Medicine, Volume 8, Issue 9, September 2014, Pages 737–746 
 
+The code was originally published on MATLAB Central in 2012 and migrated to GitHub in 2017.
+
 Cells were segmented using a custom-made image processing pipeline. The segmentation pipeline was implemented in order to distinguish cells from the background. The segmentation pipeline is composed of standard image-processing operations in the following order: 
 
 1. original image
