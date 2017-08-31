@@ -1,6 +1,6 @@
 # Cell Shape Classifier
 
-This repository provides the code used and describe in:
+This repository provides the developed for:
 
 > Time-Lapse Microscopy and Classification of 2D Human Mesenchymal Stem Cells Based on Cell Shape Picks Up Myogenic from Osteogenic and Adipogenic Differentiation <br>
 > C. Seiler, A. Gazdhar, M. Reyes, L.M. Benneker, T. Geiser, K.A. Siebenrock, and B. Gantenbein-Ritter <br>
